@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "532878612411",
+    "project_id": "loguin-aec01",
+    "storage_bucket": "loguin-aec01.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532878612411:android:d5fea7e6669a019629969e",
+        "android_client_info": {
+          "package_name": "com.example.loginsecurity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5bbsLuQ2iV__Sl8ZIouh6A7tf6hMqLZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
